@@ -326,4 +326,4 @@ class Game {
     this.status = 'lose';
   }
 }
-module.exports = Game;
+export default Game;
